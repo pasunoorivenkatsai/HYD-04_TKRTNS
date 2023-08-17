@@ -1,6 +1,0 @@
-Linear search
-int a[5]=(10,20,30,40,50)
-i=0;
-ke=30;
-i++
-ke=a[i]
